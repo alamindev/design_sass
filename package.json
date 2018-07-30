@@ -1,0 +1,14 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "this is new sass landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alamin",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
