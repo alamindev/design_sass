@@ -1,4 +1,4 @@
-#design and development with sass 
+##design and development with sass 
 
 Installation
 ============
